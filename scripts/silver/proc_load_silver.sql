@@ -89,7 +89,7 @@ begin
 
 		select 
 		prd_id,
-		replace(substring(prd_key,1,4),'-','_') as cat_id,
+		replace(substring(prd_key,1,5),'-','_') as cat_id,
 		substring(prd_key,7,len(prd_key)) as prd_key,
 		prd_nm,
 		isnull(prd_cost,0) as prd_cost,
