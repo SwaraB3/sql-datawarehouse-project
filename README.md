@@ -100,6 +100,7 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+I’m Swaranjali Bodhi, a final AI & Data Science student with a focus on SQL data warehousing, ETL development, and analytics. This project demonstrates my ability to design modern data architectures, build efficient pipelines, and generate insights through structured data modeling and reporting.
 
 
 
